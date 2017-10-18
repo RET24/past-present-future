@@ -1,0 +1,48 @@
+<style>
+img {
+max-width: 100%;
+}
+
+/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: lime;
+}
+
+/* mouse over link */
+a:hover {
+    color: red;
+}
+
+/* selected link */
+a:active {
+    color: blue;
+}
+
+p {
+    border-left: 10px solid red;
+    background-color: lime;
+}
+
+h1 {
+    font-style: oblique;
+    text-align: center;
+}
+
+body {
+    background-color: lightblue;
+}
+
+p {padding-left: 10px
+}
+
+b {margin: auto;
+}
+
+
+
+</style>
